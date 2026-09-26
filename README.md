@@ -11,6 +11,7 @@ hardware and router UX.
 - [BT-RB300 support for OpenWrt](https://github.com/openwrt/openwrt/pull/25034)
 - [Tenbay WR3000K U-Boot layout variant](https://github.com/openwrt/openwrt/pull/24662)
 - [Teralink TL3020 128 MiB support](https://github.com/openwrt/openwrt/pull/24694)
+- [WMCS Mesh System] (https://github.com/unisequence/WMCS)
 
 ## OpenWrt work
 
